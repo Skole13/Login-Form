@@ -1,0 +1,66 @@
+* {
+    margin: 0% ; 
+    padding: 0% ; 
+}
+img {
+    position: absolute ;
+    left: 50% ; 
+    border: 3px solid black ; 
+}
+.userpas {
+    position: relative ; 
+    left: 50% ;  
+    margin-left: 10px ;
+}
+ul {
+    position: relative ; 
+    list-style: none ; 
+    left: 50% ; 
+    margin-left: 10px ;
+}
+h1 {
+    top: 40px ; 
+    left: 50% ;
+    margin-left: 55px ; 
+}
+p {
+    left: 50% ;
+    margin-left: 13px ;
+    margin-top: 10px ;  
+    font-size: 12px ; 
+}
+.input3 {
+    margin-top: 30px ; 
+    margin-left: 55px ;
+}
+.other {
+    left: 50% ; 
+    margin-top: 30px ; 
+    margin-left: 85px ;
+    font-size: 12px ; 
+}
+.a2 {
+    margin-left: 10px ;
+}
+a {
+    text-decoration: none ; 
+    color:black ; 
+    left: 50% ; 
+}
+a:hover {
+    color: gray ; 
+}
+.input1, .input2 {
+    height: 30px ; 
+    text-decoration: none ; 
+    list-style: none ;
+    margin-left: 12px ;
+}
+.input3 {
+    height: 30px ; 
+    width: 80px ;
+    border: 1px solid black ;  
+}
+.input3:hover{
+    cursor: pointer;
+}
